@@ -1,0 +1,76 @@
+[    
+    {
+        "id": 1,
+        "src": "https://images.unsplash.com/photo-1596033389783-d31ed0c54440?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njl8fHRzaGlydHxlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+        "added": false,
+        "quantity": 0,
+        "description": "A black hard rock cafe tshirt made of pure cotton and made exclusively by autistic dark chinese people",
+        "color": "black",
+        "sizeSelected": "",
+        "showsizeoptions": false,
+        "showadditem":true
+    },
+
+    {
+        "id": 2,
+        "src": "https://images.unsplash.com/photo-1503341733017-1901578f9f1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHRzaGlydHxlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+        "added": false,
+        "quantity": 0,
+        "description": "A black stay wild tshirt made of pure cotton and made exclusively by pink midgets",
+        "color":"black",
+        "sizeSelected": "",
+        "showsizeoptions": false,
+        "showadditem":true
+    },
+
+    {
+        "id": 3,
+        "src": "https://images.unsplash.com/photo-1521498542256-5aeb47ba2b36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fHRzaGlydHxlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+        "added": false,
+        "quantity": 0,
+        "description": "A red tshirt made of pure cotton and made exclusively by autistic dark chinese people",
+        "color":"red",
+        "sizeSelected": "",
+        "showsizeoptions": false,
+        "showadditem":true
+    },
+    
+    {
+        "id": 4,
+        "src": "https://images.unsplash.com/photo-1468283268201-f31115a19e2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fHRzaGlydHxlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+        "added": false,
+        "quantity": 0,
+        "description": "A pink tshirt made of pure cotton and made exclusively by autistic dark chinese people",
+        "color":"pink",
+        "sizeSelected": "",
+        "showsizeoptions": false,
+        "showadditem":true
+    },
+
+    {
+        "id": 5,
+        "src": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2xvdGhlc3xlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+        "added": false,
+        "quantity": 0,
+        "description": "A white tshirt made of pure cotton and made exclusively by autistic dark chinese people",
+        "color":"white",
+        "sizeSelected": "",
+        "showsizeoptions": false,
+        "showadditem":true
+    },
+
+    {
+        "id": 6,
+        "src": "https://images.unsplash.com/photo-1530286910461-6a1960d1e83a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njh8fHRzaGlydHxlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+        "added": false,
+        "quantity": 0,
+        "description": "A blue tshirt made of pure cotton and made exclusively by autistic dark chinese people",
+        "color":"blue",
+        "sizeSelected": 0,
+        "showsizeoptions": false,
+        "showadditem":true
+    }
+
+]
+
+

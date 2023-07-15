@@ -1,0 +1,317 @@
+<div className="flex justify-center flex-col">
+          <img className="img_inv" src={admin[0].src} alt="" />
+          <div className="flex justify-center p-3">
+            <div className="rounded-md border-2 border-black px-5">
+              <button className={buttoncss} onClick={Add_item}>
+                Add Item
+              </button>
+              <ul className={sizebar}>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={S_Ref}
+                    id="S"
+                    onClick={selectSize}
+                  >
+                    S
+                  </button>
+                </li>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={M_Ref}
+                    id="M"
+                    onClick={selectSize}
+                  >
+                    M
+                  </button>
+                </li>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={L_Ref}
+                    id="L"
+                    onClick={selectSize}
+                  >
+                    L
+                  </button>
+                </li>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={XL_Ref}
+                    id="XL"
+                    onClick={selectSize}
+                  >
+                    XL
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div className="flex justify-center flex-col">
+          <img className="img_inv" src={admin[1].src} alt="" />
+          <div className="flex justify-center p-3">
+            <div className="rounded-md border-2 border-black px-5">
+              <button className={buttoncss} onClick={Add_item}>
+                Add Item
+              </button>
+              <ul className={sizebar}>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={S_Ref}
+                    id="S"
+                    onClick={selectSize}
+                  >
+                    S
+                  </button>
+                </li>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={M_Ref}
+                    id="M"
+                    onClick={selectSize}
+                  >
+                    M
+                  </button>
+                </li>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={L_Ref}
+                    id="L"
+                    onClick={selectSize}
+                  >
+                    L
+                  </button>
+                </li>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={XL_Ref}
+                    id="XL"
+                    onClick={selectSize}
+                  >
+                    XL
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div className="flex justify-center flex-col">
+          <img className="img_inv" src={admin[2].src} alt="" />
+          <div className="flex justify-center p-3">
+            <div className="rounded-md border-2 border-black px-5">
+              <button className={buttoncss} onClick={Add_item}>
+                Add Item
+              </button>
+              <ul className={sizebar}>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={S_Ref}
+                    id="S"
+                    onClick={selectSize}
+                  >
+                    S
+                  </button>
+                </li>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={M_Ref}
+                    id="M"
+                    onClick={selectSize}
+                  >
+                    M
+                  </button>
+                </li>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={L_Ref}
+                    id="L"
+                    onClick={selectSize}
+                  >
+                    L
+                  </button>
+                </li>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={XL_Ref}
+                    id="XL"
+                    onClick={selectSize}
+                  >
+                    XL
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div className="flex justify-center flex-col">
+          <img className="img_inv" src={admin[3].src} alt="" />
+          <div className="flex justify-center p-3">
+            <div className="rounded-md border-2 border-black px-5">
+              <button className={buttoncss} onClick={Add_item}>
+                Add Item
+              </button>
+              <ul className={sizebar}>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={S_Ref}
+                    id="S"
+                    onClick={selectSize}
+                  >
+                    S
+                  </button>
+                </li>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={M_Ref}
+                    id="M"
+                    onClick={selectSize}
+                  >
+                    M
+                  </button>
+                </li>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={L_Ref}
+                    id="L"
+                    onClick={selectSize}
+                  >
+                    L
+                  </button>
+                </li>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={XL_Ref}
+                    id="XL"
+                    onClick={selectSize}
+                  >
+                    XL
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div className="flex justify-center flex-col">
+          <img className="img_inv" src={admin[4].src} alt="" />
+          <div className="flex justify-center p-3">
+            <div className="rounded-md border-2 border-black px-5">
+              <button className={buttoncss} onClick={Add_item}>
+                Add Item
+              </button>
+              <ul className={sizebar}>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={S_Ref}
+                    id="S"
+                    onClick={selectSize}
+                  >
+                    S
+                  </button>
+                </li>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={M_Ref}
+                    id="M"
+                    onClick={selectSize}
+                  >
+                    M
+                  </button>
+                </li>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={L_Ref}
+                    id="L"
+                    onClick={selectSize}
+                  >
+                    L
+                  </button>
+                </li>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={XL_Ref}
+                    id="XL"
+                    onClick={selectSize}
+                  >
+                    XL
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div className="flex justify-center flex-col">
+          <img className="img_inv" src={admin[5].src} alt="" />
+          <div className="flex justify-center p-3">
+            <div className="rounded-md border-2 border-black px-5">
+              <button className={buttoncss} onClick={Add_item}>
+                Add Item
+              </button>
+              <ul className={sizebar}>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={S_Ref}
+                    id="S"
+                    onClick={selectSize}
+                  >
+                    S
+                  </button>
+                </li>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={M_Ref}
+                    id="M"
+                    onClick={selectSize}
+                  >
+                    M
+                  </button>
+                </li>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={L_Ref}
+                    id="L"
+                    onClick={selectSize}
+                  >
+                    L
+                  </button>
+                </li>
+                <li>
+                  <button
+                    className="p-2"
+                    ref={XL_Ref}
+                    id="XL"
+                    onClick={selectSize}
+                  >
+                    XL
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
